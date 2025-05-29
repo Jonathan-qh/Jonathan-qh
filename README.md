@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jonathan-qh
-- 👀 I’m interested in data, analytics
+-![Uploading image.png…]()
+- 👋 Hi, I’m Jonathan Huynh
+- 🌍 I'm from Vietnam
+- 👀 I’m interested in FinTech, Super-app & AI
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Jonathan-qh/Jonathan-qh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
