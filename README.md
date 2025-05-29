@@ -1,4 +1,5 @@
--![Uploading image.png…]()
+- ![image](https://github.com/user-attachments/assets/7c808fcb-bdbf-4a43-bbfd-2b1450dc6ebb)
+
 - 👋 Hi, I’m Jonathan Huynh
 - 🌍 I'm from Vietnam
 - 👀 I’m interested in FinTech, Super-app & AI
